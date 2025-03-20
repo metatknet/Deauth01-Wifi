@@ -6,7 +6,7 @@ Make it By Tanakenz(META)
 Run the following commands:
 
 ```bash
-git clone https://github.com/KevinKhemra007/Deauth01-Wifi.git
+git clone https://github.com/metatknet/Deauth01-Wifi.git
 cd Deauth01-Wifi
 chmod +x deauth01wifi.py
 python3 deauth01wifi.py
