@@ -1,5 +1,18 @@
 # Deauth-Wifi
 Make it By Tanakenz(META)
+
+---
+
+## 📌 Features  
+✅ **Start & Stop wlan0 Monitor Mode**  
+✅ **Scan & Select WiFi Networks**  
+✅ **Deauthenticate All Devices from a Target WiFi**  
+✅ **Create & Spam Fake WiFi APs (Custom Amount)**  
+✅ **Auto-Detect wlan0mon or wlan0**  
+✅ **Secure Network Testing on Kali Linux**  
+
+---
+
 ## 🔧 Installation  
 
 ### 🔹 On Kali Linux
