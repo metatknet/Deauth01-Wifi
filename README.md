@@ -5,7 +5,7 @@ Make it By Tanakenz(META)
 ### 🔹 On Kali Linux
 Run the following commands:
 
-`bash
+```bash
 git clone https://github.com/KevinKhemra007/Deauth01-Wifi.git
 cd Deauth01-Wifi
 chmod +x deauth01wifi.py
